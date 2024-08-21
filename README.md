@@ -47,3 +47,4 @@ To further make it easier to understand and interpret the data and models create
 - Doughnut Chart;
 - Pie Chart.
 
+[View the Data Analysis Findings and Recommendations](https://github.com/olubadero/DeckHT-HR-Attrition-Analysis/blob/main/Findings_and_Recommendations.md)
