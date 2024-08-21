@@ -7,6 +7,10 @@ DeckHT is experiencing a concerning increase in employee attrition rates, which 
   
 The dataset provides for employee details i.e. age, gender, department, position, year of service, performance rating, satisfaction score, salary and attrition.
 
+**Original Dataset**
+![Screenshot (7)](https://github.com/user-attachments/assets/174a85e9-df74-4e29-88d7-f0b99c34f71f)
+
+
 **Data cleaning and Transformation (Power Query: Extract, Transform and Load):** 
 Utilising Power Query, a copy of the original dataset was extracted from the folder it was saved and loaded onto Power Query for transformation and cleaning for data analysis. 
 **Exploratory Data Analysis (EDA):** The initial EDA done on the data to better understand the Data reveal the following information. 
@@ -26,6 +30,11 @@ Utilising Power Query, a copy of the original dataset was extracted from the fol
 - Changing columns to their correct data types;
 - Replacing incorrect values;
 - Creating new columns to grade row data for easier analysis using IF statements e.g. ranking the satisfaction and performance scores; bucketing age groups etc.
+
+**Cleaned Data**
+
+![Screenshot (8)](https://github.com/user-attachments/assets/80ff7451-3c94-408e-93e1-d3d8fe22b860)
+
   
 After this process the cleaned data was loaded onto Excel worksheet for analysis.
 
